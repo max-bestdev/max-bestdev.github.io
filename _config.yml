@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongsu Byun"
+  name             : "Developer Max"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "하루하루 작은 걸음이라고 꾸준히"
   location         : "Seoul"
@@ -275,8 +275,11 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+
+
