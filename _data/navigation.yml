@@ -6,9 +6,9 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
 
   - title: "Project"
-    url: "/project/"
+    url: /categories/project/ 
   - title: "Issues"
-    url: "/issues/"        
+    url: /categories/issues/       
   - title: "study"
     url: /categories/study/ 
 
