@@ -24,8 +24,8 @@ description: "An amazing website."
 url: http://brillantescene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: / # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/assets/images/me.jpg"
-logo: "/assets/images/me.jpg"
+# teaser: "/assets/images/me.jpg"
+# logo: "/assets/images/me.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -93,8 +93,8 @@ analytics:
 # Site Author
 author:
   name: "Max Developer"
-  avatar: "/assets/images/me.jpg"
-  bio: "하루하루 작은 걸음이라도 꾸준히"
+  # avatar: "/assets/images/me.jpg"
+  bio: "The strongest of all warriors are these two -- Time and Patience."
   location: "Korea"
   email: "max.bestdev@gmail.com"
   links:
