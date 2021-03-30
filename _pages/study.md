@@ -1,5 +1,5 @@
 ---
-title: "좌충우돌 "
+title: "Thinking "
 layout: categories
 permalink: /study/
 author_profile: true
