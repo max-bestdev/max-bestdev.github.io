@@ -1,6 +1,7 @@
 ---
+title: "Issues"
 layout: categories
-permalink: /information/
-titile: "IT Issue"
+permalink: /issues/
 author_profile: true
 ---
+
