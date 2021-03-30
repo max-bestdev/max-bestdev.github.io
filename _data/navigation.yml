@@ -9,8 +9,8 @@ main:
     url: "/project/"
   - title: "Issues"
     url: "/issues/"        
-  - title: "Study"
-    url: "/study/"    
+  - title: "study"
+    url: /categories/study/ 
 
 
 docs:
