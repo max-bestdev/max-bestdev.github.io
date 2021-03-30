@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yongsu Byun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "하루하루 작은 걸음이라고 꾸준히"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
