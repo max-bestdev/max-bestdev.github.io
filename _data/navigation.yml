@@ -9,7 +9,7 @@ main:
     url: /categories/project/ 
   - title: "Issues"
     url: /categories/issues/       
-  - title: "study"
+  - title: "Study"
     url: /categories/study/ 
 
 
