@@ -1,6 +1,9 @@
 ---
 title: "Project"
-layout: categories
-permalink: /project/
+permalink: /categories/project/
+layout: category
 author_profile: true
+toc_sticky: true
+toc_ads : true
+taxonomy: project
 ---
