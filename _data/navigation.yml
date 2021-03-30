@@ -1,12 +1,40 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "About"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Category"
+    url: "/categories/"
+  - title: "Project"
+    url: /projects/
+  - title: "About"
+    url: "/about/"
+# - title: "Sample Posts"
+#   url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
+# - title: "Sitemap"
+#   url: /sitemap/
+
+docs:
+  - title: Project
+    children:
+      - title: "Java"
+        url: /_pages/java/
+      - title: "Python"
+        url: /_pages/python/
+      - title: "Front-end"
+        url: /_pages/frontend/
+
+  - title: Class
+    children:
+      - title: "class"
+        url: /docs/configuration/
+
+  - title: IT 관련 정보
+    children:
+      - title: "IT지식"
+        url: /_pages/it/
+      - title: ""
+        url: /_pages/etc/
