@@ -1,7 +1,9 @@
 ---
-title: "Thinking "
+title: "study"
+permalink: /categories/study/
 layout: category
-permalink: /study/
 author_profile: true
+toc_sticky: true
+toc_ads : true
 taxonomy: study
 ---
