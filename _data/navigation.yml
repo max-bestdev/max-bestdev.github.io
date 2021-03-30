@@ -7,8 +7,8 @@ main:
 
   - title: "Project"
     url: "/project/"
-  - title: "Information"
-    url: "/information/"        
+  - title: "Issues"
+    url: "/issues/"        
   - title: "Study"
     url: "/study/"    
 
