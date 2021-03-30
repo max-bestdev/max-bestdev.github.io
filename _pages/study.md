@@ -1,6 +1,7 @@
 ---
 title: "Thinking "
-layout: categories
+layout: category
 permalink: /study/
 author_profile: true
+taxonomy: study
 ---
