@@ -32,7 +32,7 @@ docs:
       - title: "class"
         url: /docs/configuration/
 
-  - title: IT 관련 정보
+  - title: Information
     children:
       - title: "IT지식"
         url: /_pages/it/
