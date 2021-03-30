@@ -272,9 +272,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: splash
     values:
-      layout: posts
+      layout: splash
       classes: wide
       author_profile: true
       read_time: true
