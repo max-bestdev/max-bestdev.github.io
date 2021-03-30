@@ -1,5 +1,5 @@
 ---
-title: "study"
+title: "Study"
 permalink: /categories/study/
 layout: category
 author_profile: true
