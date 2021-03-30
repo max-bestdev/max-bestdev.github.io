@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
-title: "간단하고 단순함의 시작"
+title: "하루하루 작은 걸음이라도 꾸준히"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "max developer"
+name: "Max Developer"
 description: "An amazing website."
 url: http://brillantescene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: / # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser: "/assets/images/me.jpg"
+logo: "/assets/images/me.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -92,15 +92,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Yongsu"
+  name: "Max Developer"
   avatar: "/assets/images/me.jpg"
-  bio: "작은 것들이 점점 쌓인다."
+  bio: "하루하루 작은 걸음이라도 꾸준히"
   location: "Korea"
   email: "max.bestdev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:max.bestdev@gmail.com"
+      # url: "mailto:max.bestdev@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
