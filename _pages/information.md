@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /information/
-titile: "개발 관련 이슈정리"
+titile: "IT Issue"
 author_profile: true
 ---
